@@ -1,3 +1,3 @@
 #!/bin/bash
-egrep ^[[:a√lpha:]]
+egrep ^[[:alpha:]]
 /etc/ssh/sshd_config
