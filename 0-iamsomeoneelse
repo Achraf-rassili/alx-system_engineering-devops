@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# simulate the whoami command
-sudo -u "$1" whoami;
